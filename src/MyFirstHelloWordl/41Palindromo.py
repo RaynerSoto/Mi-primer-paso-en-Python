@@ -1,6 +1,5 @@
 import string
-verdad = True
-iterador = 0
+import time
 entrada = input('Ingrese la palabra para ver si es un palidromo\n')
 valor = list(entrada.lower())
 valor.reverse()
