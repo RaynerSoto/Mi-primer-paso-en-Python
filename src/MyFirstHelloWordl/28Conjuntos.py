@@ -16,5 +16,7 @@ conjuntos.add(0.1)
 print(conjuntos) #Los conjuntos añaden elementos en posiciones aleatorias
 conjuntos.discard(True)
 print(1 in conjuntos)
-conjuntos.clear() #Eliminar toda la lista
+print(conjuntos)
+conjuntos.clear() #Eliminar toda la lista}
+print(conjuntos)
 
